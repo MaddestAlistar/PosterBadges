@@ -1,0 +1,232 @@
+{
+  "schema": "liangyou.resource-lab/1.0",
+  "id": "PosterBadges",
+  "version": "1.0",
+  "title": "良友影视海报角标库",
+  "updated": "2026-10-23",
+  "resourceType": "transparent-png-svg",
+  "licenseNote": "原创样式，不代表杜比/DTS官方认证",
+  "importType": "resource-index-not-direct-import",
+  "repository": "https://github.com/MaddestAlistar/PosterBadges",
+  "dimensions": {
+    "width": 540,
+    "height": 164
+  },
+  "themes": [
+    "dark",
+    "light"
+  ],
+  "count": 12,
+  "assets": [
+    {
+      "id": "4k",
+      "label": "4K",
+      "description": "ULTRA HD",
+      "category": "resolution",
+      "accent": "#EAC46C",
+      "variants": {
+        "dark": {
+          "png": "https://raw.githubusercontent.com/MaddestAlistar/PosterBadges/main/assets/dark/4k.png",
+          "svg": "https://raw.githubusercontent.com/MaddestAlistar/PosterBadges/main/assets/dark/4k.svg"
+        },
+        "light": {
+          "png": "https://raw.githubusercontent.com/MaddestAlistar/PosterBadges/main/assets/light/4k.png",
+          "svg": "https://raw.githubusercontent.com/MaddestAlistar/PosterBadges/main/assets/light/4k.svg"
+        }
+      }
+    },
+    {
+      "id": "1080p",
+      "label": "1080P",
+      "description": "FULL HD",
+      "category": "resolution",
+      "accent": "#A7CAFF",
+      "variants": {
+        "dark": {
+          "png": "https://raw.githubusercontent.com/MaddestAlistar/PosterBadges/main/assets/dark/1080p.png",
+          "svg": "https://raw.githubusercontent.com/MaddestAlistar/PosterBadges/main/assets/dark/1080p.svg"
+        },
+        "light": {
+          "png": "https://raw.githubusercontent.com/MaddestAlistar/PosterBadges/main/assets/light/1080p.png",
+          "svg": "https://raw.githubusercontent.com/MaddestAlistar/PosterBadges/main/assets/light/1080p.svg"
+        }
+      }
+    },
+    {
+      "id": "hdr10",
+      "label": "HDR10",
+      "description": "HIGH DYNAMIC RANGE",
+      "category": "hdr",
+      "accent": "#FFB76B",
+      "variants": {
+        "dark": {
+          "png": "https://raw.githubusercontent.com/MaddestAlistar/PosterBadges/main/assets/dark/hdr10.png",
+          "svg": "https://raw.githubusercontent.com/MaddestAlistar/PosterBadges/main/assets/dark/hdr10.svg"
+        },
+        "light": {
+          "png": "https://raw.githubusercontent.com/MaddestAlistar/PosterBadges/main/assets/light/hdr10.png",
+          "svg": "https://raw.githubusercontent.com/MaddestAlistar/PosterBadges/main/assets/light/hdr10.svg"
+        }
+      }
+    },
+    {
+      "id": "hdr10-plus",
+      "label": "HDR10+",
+      "description": "DYNAMIC HDR",
+      "category": "hdr",
+      "accent": "#F6AF6A",
+      "variants": {
+        "dark": {
+          "png": "https://raw.githubusercontent.com/MaddestAlistar/PosterBadges/main/assets/dark/hdr10-plus.png",
+          "svg": "https://raw.githubusercontent.com/MaddestAlistar/PosterBadges/main/assets/dark/hdr10-plus.svg"
+        },
+        "light": {
+          "png": "https://raw.githubusercontent.com/MaddestAlistar/PosterBadges/main/assets/light/hdr10-plus.png",
+          "svg": "https://raw.githubusercontent.com/MaddestAlistar/PosterBadges/main/assets/light/hdr10-plus.svg"
+        }
+      }
+    },
+    {
+      "id": "dolby-vision",
+      "label": "DOLBY VISION",
+      "description": "HDR VIDEO",
+      "category": "hdr",
+      "accent": "#B49AFF",
+      "variants": {
+        "dark": {
+          "png": "https://raw.githubusercontent.com/MaddestAlistar/PosterBadges/main/assets/dark/dolby-vision.png",
+          "svg": "https://raw.githubusercontent.com/MaddestAlistar/PosterBadges/main/assets/dark/dolby-vision.svg"
+        },
+        "light": {
+          "png": "https://raw.githubusercontent.com/MaddestAlistar/PosterBadges/main/assets/light/dolby-vision.png",
+          "svg": "https://raw.githubusercontent.com/MaddestAlistar/PosterBadges/main/assets/light/dolby-vision.svg"
+        }
+      }
+    },
+    {
+      "id": "atmos",
+      "label": "ATMOS",
+      "description": "IMMERSIVE AUDIO",
+      "category": "audio",
+      "accent": "#76C7FF",
+      "variants": {
+        "dark": {
+          "png": "https://raw.githubusercontent.com/MaddestAlistar/PosterBadges/main/assets/dark/atmos.png",
+          "svg": "https://raw.githubusercontent.com/MaddestAlistar/PosterBadges/main/assets/dark/atmos.svg"
+        },
+        "light": {
+          "png": "https://raw.githubusercontent.com/MaddestAlistar/PosterBadges/main/assets/light/atmos.png",
+          "svg": "https://raw.githubusercontent.com/MaddestAlistar/PosterBadges/main/assets/light/atmos.svg"
+        }
+      }
+    },
+    {
+      "id": "truehd",
+      "label": "TRUEHD",
+      "description": "LOSSLESS AUDIO",
+      "category": "audio",
+      "accent": "#E6BB7B",
+      "variants": {
+        "dark": {
+          "png": "https://raw.githubusercontent.com/MaddestAlistar/PosterBadges/main/assets/dark/truehd.png",
+          "svg": "https://raw.githubusercontent.com/MaddestAlistar/PosterBadges/main/assets/dark/truehd.svg"
+        },
+        "light": {
+          "png": "https://raw.githubusercontent.com/MaddestAlistar/PosterBadges/main/assets/light/truehd.png",
+          "svg": "https://raw.githubusercontent.com/MaddestAlistar/PosterBadges/main/assets/light/truehd.svg"
+        }
+      }
+    },
+    {
+      "id": "dts-hd-ma",
+      "label": "DTS-HD MA",
+      "description": "MASTER AUDIO",
+      "category": "audio",
+      "accent": "#78D8D5",
+      "variants": {
+        "dark": {
+          "png": "https://raw.githubusercontent.com/MaddestAlistar/PosterBadges/main/assets/dark/dts-hd-ma.png",
+          "svg": "https://raw.githubusercontent.com/MaddestAlistar/PosterBadges/main/assets/dark/dts-hd-ma.svg"
+        },
+        "light": {
+          "png": "https://raw.githubusercontent.com/MaddestAlistar/PosterBadges/main/assets/light/dts-hd-ma.png",
+          "svg": "https://raw.githubusercontent.com/MaddestAlistar/PosterBadges/main/assets/light/dts-hd-ma.svg"
+        }
+      }
+    },
+    {
+      "id": "hevc",
+      "label": "HEVC",
+      "description": "H.265 VIDEO",
+      "category": "codec",
+      "accent": "#94CBEA",
+      "variants": {
+        "dark": {
+          "png": "https://raw.githubusercontent.com/MaddestAlistar/PosterBadges/main/assets/dark/hevc.png",
+          "svg": "https://raw.githubusercontent.com/MaddestAlistar/PosterBadges/main/assets/dark/hevc.svg"
+        },
+        "light": {
+          "png": "https://raw.githubusercontent.com/MaddestAlistar/PosterBadges/main/assets/light/hevc.png",
+          "svg": "https://raw.githubusercontent.com/MaddestAlistar/PosterBadges/main/assets/light/hevc.svg"
+        }
+      }
+    },
+    {
+      "id": "remux",
+      "label": "REMUX",
+      "description": "DISC SOURCE",
+      "category": "source",
+      "accent": "#F0D58B",
+      "variants": {
+        "dark": {
+          "png": "https://raw.githubusercontent.com/MaddestAlistar/PosterBadges/main/assets/dark/remux.png",
+          "svg": "https://raw.githubusercontent.com/MaddestAlistar/PosterBadges/main/assets/dark/remux.svg"
+        },
+        "light": {
+          "png": "https://raw.githubusercontent.com/MaddestAlistar/PosterBadges/main/assets/light/remux.png",
+          "svg": "https://raw.githubusercontent.com/MaddestAlistar/PosterBadges/main/assets/light/remux.svg"
+        }
+      }
+    },
+    {
+      "id": "web-dl",
+      "label": "WEB-DL",
+      "description": "STREAM SOURCE",
+      "category": "source",
+      "accent": "#B7BED1",
+      "variants": {
+        "dark": {
+          "png": "https://raw.githubusercontent.com/MaddestAlistar/PosterBadges/main/assets/dark/web-dl.png",
+          "svg": "https://raw.githubusercontent.com/MaddestAlistar/PosterBadges/main/assets/dark/web-dl.svg"
+        },
+        "light": {
+          "png": "https://raw.githubusercontent.com/MaddestAlistar/PosterBadges/main/assets/light/web-dl.png",
+          "svg": "https://raw.githubusercontent.com/MaddestAlistar/PosterBadges/main/assets/light/web-dl.svg"
+        }
+      }
+    },
+    {
+      "id": "10bit",
+      "label": "10BIT",
+      "description": "COLOR DEPTH",
+      "category": "codec",
+      "accent": "#B3DE90",
+      "variants": {
+        "dark": {
+          "png": "https://raw.githubusercontent.com/MaddestAlistar/PosterBadges/main/assets/dark/10bit.png",
+          "svg": "https://raw.githubusercontent.com/MaddestAlistar/PosterBadges/main/assets/dark/10bit.svg"
+        },
+        "light": {
+          "png": "https://raw.githubusercontent.com/MaddestAlistar/PosterBadges/main/assets/light/10bit.png",
+          "svg": "https://raw.githubusercontent.com/MaddestAlistar/PosterBadges/main/assets/light/10bit.svg"
+        }
+      }
+    }
+  ],
+  "resources": {
+    "catalog": "https://raw.githubusercontent.com/MaddestAlistar/PosterBadges/main/catalog.json",
+    "preview": "https://github.com/MaddestAlistar/PosterBadges/blob/main/preview/index.html",
+    "config": "https://raw.githubusercontent.com/MaddestAlistar/PosterBadges/main/templates/poster-config.example.json",
+    "docs": "https://raw.githubusercontent.com/MaddestAlistar/PosterBadges/main/docs/usage.md"
+  }
+}

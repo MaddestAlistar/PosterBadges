@@ -6,6 +6,12 @@
 
 将常见的分辨率、片源、HDR、编码与音轨格式制作成统一风格的 **透明 PNG 和可编辑 SVG**。可叠加在影视海报、媒体库卡片或播放器展示图上。
 
+## JSON 资源入口
+
+**[一键复制/获取统一 JSON 资源目录](https://raw.githubusercontent.com/MaddestAlistar/PosterBadges/main/index.json)**
+
+`index.json` 提供 12 类角标、24 张透明 PNG 与 24 份 SVG 的绝对下载 URL、类型、主题和配置信息，方便海报工具读取并调用对应素材；**JSON 是资源索引，不是把图像二进制转为 JSON，也不保证任意播放器直接导入**。原有 PNG / SVG 全部保留。
+
 ## 目前已制作
 
 **12 类角标 × 2 套配色 = 24 张透明 PNG + 24 个 SVG**，图像均为 **540 × 164 px**。PNG 的四角为透明（RGBA），中间的角标面板是不透明/半透明设计。
