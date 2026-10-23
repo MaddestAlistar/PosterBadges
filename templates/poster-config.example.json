@@ -1,0 +1,23 @@
+{
+  "name": "LiangYou Poster Badges",
+  "schema": "illustrative-poster-layout/v1-not-direct-import",
+  "badgeTheme": "dark",
+  "position": "top-right",
+  "maxBadges": 4,
+  "marginPx": 24,
+  "gapPx": 8,
+  "order": [
+    "4k",
+    "dolby-vision",
+    "hdr10-plus",
+    "hdr10",
+    "atmos",
+    "truehd",
+    "dts-hd-ma",
+    "remux",
+    "web-dl",
+    "hevc"
+  ],
+  "assetTemplate": "https://raw.githubusercontent.com/MaddestAlistar/PosterBadges/main/assets/{theme}/{badge}.png",
+  "notes": "仅供开发者映射到自己的海报生成器，并非现成的 Jellyfin/Emby 配置格式"
+}
